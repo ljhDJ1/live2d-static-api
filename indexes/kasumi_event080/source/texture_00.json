@@ -1,0 +1,264 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "kasumi_event080",
+	"model": "../../../models/kasumi_event080/source/kasumi_event080.moc",
+	"textures": [
+		"../../../models/kasumi_event080/source/textures/kasumi_event080.1024/texture_00.png"
+	],
+	"physics": "../../../models/kasumi_event080/source/kasumi_event080.physics",
+	"motions": {
+		"angry": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/angry01.mtn",
+				"fade_in": 500,
+				"fade_out": 1000
+			}
+		],
+		"bye": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/bye01.mtn",
+				"fade_in": 500,
+				"fade_out": 1000
+			}
+		],
+		"cry": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/cry01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/cry02.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/cry03.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"eeto": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/eeto01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"gacha": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/gacha01.mtn",
+				"fade_in": 0,
+				"fade_out": 1000
+			}
+		],
+		"gattsu": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/gattsu01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"hukumi": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/hukumi01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"idle": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/idle01.mtn",
+				"fade_in": 0,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/idle02.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"jaan": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/jaan01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"kime": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/kime01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"nf": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/nf01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/nf02.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/nf03.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/nf04.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/nf05.mtn",
+				"fade_in": 800,
+				"fade_out": 1000
+			}
+		],
+		"nf_left": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/nf_left01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"nf_right": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/nf_right01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"niyaniya": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/niyaniya01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"oowarai": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/oowarai01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"sad": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/sad01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/sad02.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"serious": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/serious01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/serious02.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"shame": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/shame01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"sing": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/sing01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"sleep": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/sleep01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/sleep02.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"smile": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/smile01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/smile01_ingameV2.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/smile02.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/smile03.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/smile04.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"sneeze": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/sneeze01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/sneeze02.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		],
+		"surprised": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/surprised01.mtn",
+				"fade_in": 800,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/surprised02.mtn",
+				"fade_in": 800,
+				"fade_out": 1000
+			},
+			{
+				"file": "../../../models/kasumi_event080/source/motions/surprised03.mtn",
+				"fade_in": 800,
+				"fade_out": 1000
+			}
+		],
+		"wink": [
+			{
+				"file": "../../../models/kasumi_event080/source/motions/wink01.mtn",
+				"fade_in": 1000,
+				"fade_out": 1000
+			}
+		]
+	}
+}
